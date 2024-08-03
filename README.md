@@ -4,6 +4,11 @@ I'm a data visualization specialist at NASA with a Ph.D. in computational astrop
 I love working with Python and JavaScript to create high performance interactive web applications. 
 In my free time, I enjoy reading science fiction and fantasy as well as performing improv comedy.
 
+<!-- 
+[![Alex's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=agurvich&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/agurvich/github-readme-stats#gh-dark-mode-only)
+[![Alex's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=agurvich&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/agurvich/github-readme-stats#gh-light-mode-only)
+-->
+
 ## Key Projects
 ### 🔍 Data Science 🔍
 - [Earth.gov](https://Earth.gov): Public-facing interagency data portal for high-level actionable datasets.
